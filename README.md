@@ -10,7 +10,7 @@ A Python tool to translate any language to 1337  :snake: :fire:
 ## Installation :gear:
 
 ```bash
-py -m pip install stermcolor
+py -m pip install termcolor
 python3 -m pip install termcolor
 ```
 ## Run :runner:
@@ -20,6 +20,9 @@ py main.py
 
 python3 main.py
 ```
+
+### Binaries and .apk soon!
+
 ## LICENSE :copyright:
 
 [LICENSE](./LICENSE)
